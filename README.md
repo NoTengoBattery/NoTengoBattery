@@ -20,6 +20,11 @@ You can reach me via GitHub. If you have any problem with the code I build or de
   <a href="https://reddit.com/user/notengobattery"><img align="center" alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/notengobattery?label=Follow%20Me%20On%20Reddit&style=social"></a>
 </p>
 
+## Available for hire
+Check out my LinkedIn profile
+<p align="center">
+<a href="https://www.linkedin.com/in/notengobattery"><img align="center" alt="LinkedIn Profile" src="https://img.shields.io/static/v1?label=LinkedIn&message=Oever%20Gonz%C3%A1lez&color=0073b1&style=social&logo=linkedin"></a>
+
 <!--
 **NoTengoBattery/NoTengoBattery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
