@@ -2,8 +2,8 @@
 Hello, there 👋. My name is Oever González, and I am from Guatemala, a small coutry in Central America (UTC-0600, no Daylight Savings Time). I am currently learning Full Stack Web Development.
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NoTengoBattery&show_icons=true&count_private=true&line_height=28&theme=material" alt="Oever González's GitHub stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoTengoBattery&langs_count=10&layout=compact&theme=material"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=NoTengoBattery&show_icons=true&count_private=true&line_height=28&theme=merko" alt="Oever González's GitHub stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NoTengoBattery&langs_count=10&layout=compact&theme=merko"/>
 </p>
 
 I am very fluent in languages such as the Bourne Shell, C and Make; with the Linux kernel, AOSP and UNIX-like operating systems; and with embedded tools like Buildroot, Clang and GCC.
