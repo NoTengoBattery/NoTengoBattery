@@ -18,7 +18,7 @@ You can reach me via GitHub. If you have any problem with the code I build or de
   <a href="https://twitter.com/NoTengoBattery"><img align="center" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/NoTengoBattery?label=Follow%20Me%20On%20Twitter&style=social"></a>
   <a href="https://github.com/NoTengoBattery"><img align="center" alt="GitHub followers" src="https://img.shields.io/github/followers/NoTengoBattery?label=Follow%20Me%20On%20GitHub&style=social"></a>
   <a href="https://reddit.com/user/notengobattery"><img align="center" alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/notengobattery?label=Follow%20Me%20On%20Reddit&style=social"></a>
-  <a href="mailto:notengobattery@gmail.com?subject=[GitHub] &body=Type your message here. Please start the subject with '[GitHub]' for better sorting of your messages."><img align="center" alt="Gmail" src="https://img.shields.io/static/v1?label=Gmail&message=notengobattery&color=0073b1&style=social&logo=gmail"></a>
+  <a href="mailto:software@notengobattery.com?subject=[GitHub] &body=Type your message here. Please start the subject with '[GitHub]' for better sorting of your messages."><img align="center" alt="Gmail" src="https://img.shields.io/static/v1?label=Developer%20Email&message=notengobattery&color=0073b1&style=social&logo=protonmail"></a>
 </p>
 
 ## Available for hire
