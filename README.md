@@ -1,5 +1,5 @@
 # Welcome to Oever González's GitHub Profile
-Hello, there 👋. My name is Oever González, and I am from Guatemala 🇬🇹 [UTC-6, no Daylight Savings Time]. Currently, I am a Full Stack Web Developer.
+Hello, there 👋. My name is Oever González, and I am from Guatemala 🇬🇹 [UTC-6, no Daylight Savings Time]. Currently, I am a Backend Engineer and Developer.
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NoTengoBattery&show_icons=true&count_private=true&line_height=28&theme=merko" alt="Oever González's GitHub stats"/>
