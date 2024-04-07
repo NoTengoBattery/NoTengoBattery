@@ -4,11 +4,12 @@ Hello, there 👋. My name is Oever González, and I am from Guatemala 🇬🇹 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=NoTengoBattery&show_icons=true&count_private=true&line_height=28&theme=merko" alt="Oever González's GitHub stats"/>
 </p>
+(Stats don't include private repos)
 
 ## Contact me
-You can reach me via GitHub. If you have any problem with the code I build or develop, please open a GitHub Issue in the corresponding repository, or send me an email. I am also available on the OpenWrt forums if you need help related to my OpenWrt build. Finally, you can use the buttons below to reach me via other social networks.
+You can reach me via GitHub. If you have any problem with the code I build or develop, please open a GitHub Issue in the corresponding repository, or send me an email. Also, you can use the buttons below to reach me via other social networks.
 
-** Let's have some fun in Reddit and Twitter!**
+**Let's have some fun in Reddit and Twitter!**
 
 <p align="center">
   <a href="https://twitter.com/NoTengoBattery"><img align="center" alt="Twitter Follow" src="https://img.shields.io/twitter/follow/NoTengoBattery?label=Follow%20Me%20On%20Twitter&style=social"></a>
